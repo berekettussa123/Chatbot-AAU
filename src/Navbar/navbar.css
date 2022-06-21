@@ -1,0 +1,20 @@
+.navbar{
+    height: 60px;
+    background-color: #0e2e5f;
+    color: white;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+}
+.btn{
+    margin-right: 30px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.background{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(204, 226, 226, 0.401);
+}
